@@ -1,0 +1,17 @@
+.recipe-image {
+    height: auto;
+    width: 300px;
+}
+
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+.list-items {
+    color: blue;
+    font-size: 24px;
+}
+
+.description-items {
+    background-color: rgb(187, 223, 242)
+}
